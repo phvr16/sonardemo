@@ -1,0 +1,14 @@
+D:\NEW STS\New workspace\ProductMS\src\main\java\com\oms\product\validator\ProductValidator.java
+D:\NEW STS\New workspace\ProductMS\src\main\java\com\oms\product\exception\ProductMsException.java
+D:\NEW STS\New workspace\ProductMS\src\main\java\com\oms\product\service\ProductService.java
+D:\NEW STS\New workspace\ProductMS\src\main\java\com\oms\product\utility\LoggingAspect.java
+D:\NEW STS\New workspace\ProductMS\src\main\java\com\oms\product\service\ProductServiceImpl.java
+D:\NEW STS\New workspace\ProductMS\src\main\java\com\oms\product\entity\Product.java
+D:\NEW STS\New workspace\ProductMS\src\main\java\com\oms\product\controller\ProductAPI.java
+D:\NEW STS\New workspace\ProductMS\src\main\java\com\oms\product\dto\ProductDTO.java
+D:\NEW STS\New workspace\ProductMS\src\main\java\com\oms\product\dto\SubscribedProductDTO.java
+D:\NEW STS\New workspace\ProductMS\src\main\java\com\oms\product\utility\CustomPK.java
+D:\NEW STS\New workspace\ProductMS\src\main\java\com\oms\product\repository\ProductRepository.java
+D:\NEW STS\New workspace\ProductMS\src\main\java\com\oms\product\repository\SubscribedProductRepository.java
+D:\NEW STS\New workspace\ProductMS\src\main\java\com\oms\product\ProductMsApplication.java
+D:\NEW STS\New workspace\ProductMS\src\main\java\com\oms\product\entity\SubscribedProduct.java

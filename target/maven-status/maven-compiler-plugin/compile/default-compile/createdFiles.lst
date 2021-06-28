@@ -1,0 +1,14 @@
+com\oms\product\dto\SubscribedProductDTO.class
+com\oms\product\entity\SubscribedProduct.class
+com\oms\product\ProductMsApplication.class
+com\oms\product\controller\ProductAPI.class
+com\oms\product\dto\ProductDTO.class
+com\oms\product\repository\ProductRepository.class
+com\oms\product\service\ProductServiceImpl.class
+com\oms\product\repository\SubscribedProductRepository.class
+com\oms\product\service\ProductService.class
+com\oms\product\entity\Product.class
+com\oms\product\utility\LoggingAspect.class
+com\oms\product\validator\ProductValidator.class
+com\oms\product\exception\ProductMsException.class
+com\oms\product\utility\CustomPK.class
