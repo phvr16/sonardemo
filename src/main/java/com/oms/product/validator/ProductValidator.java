@@ -37,7 +37,7 @@ public class ProductValidator {
 	
 	public static boolean validateDescription(String desc)
 	{
-		String regex = "([A-Za-z]+([ ][A-Za-z]+)*){1,500}";
+		String regex = "([A-Za-z]+([ ][A-Za-z0-9]+)*){1,500}";
 		
 		if(desc.matches(regex))
 		{
